@@ -21,7 +21,7 @@ My background is in **manufacturing R&D**, where I lead AI adoption — bringing
 
 ### 🚀 Featured Project
 
-#### [Sentinel](https://github.com/{你的帳號}/sentinel) — A Thinking OS for Vibe Coding
+#### [Sentinel](https://github.com/RayLi-Git/sentinel) — A Thinking OS for Vibe Coding
 
 A Claude Code skill that acts as a senior engineer's thinking layer. It encodes **87 world-class thinking habits** into a five-stage loop (Plan → Build → Diagnose → Solve → Retro), stopping AI from surface-patching, silencing alarms, or shipping security gambles — and grows a self-learning "case history" so the same pit isn't fallen into twice.
 
