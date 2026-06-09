@@ -44,6 +44,6 @@ I spent a long time studying structured thinking frameworks (critical / creative
 
 ### 📫 Reach me
 
-- 📍 🇹🇼Taiwan
+- 📍Taiwan
 - 💼 LinkedIn: 
 - ✉️ Email: supporting.mammal.gtpd@mask.me
