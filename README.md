@@ -19,7 +19,7 @@ My background is in **manufacturing R&D**, where I lead AI adoption — bringing
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### [Sentinel](https://github.com/RayLi-Git/sentinel) — A Thinking OS for Vibe Coding
 
@@ -29,6 +29,14 @@ A Claude Code skill that acts as a senior engineer's thinking layer. It encodes 
 
 `Claude Code` · `Thinking Framework` · `AI Developer Tools` · `Root-Cause Analysis`
 
+#### [Compass](https://github.com/RayLi-Git/compass) — A PRD-Discipline Compass for Spec-Driven Development
+
+Sentinel's **companion skill**. A Claude Code skill that sits between the PRD and your implementation — making sure you build to spec, don't drift, and don't drop items. It spans the full lifecycle (Definition of Ready → tracking docs → conflict handling → NFR → operations → brownfield) and enforces discipline with **exit codes, not willpower**. Sentinel watches *how you think*; Compass watches *how you execute to spec*.
+
+Sentinel 的**配對 skill**。一個站在 PRD 與實作之間的 Claude Code skill——確保你照規格蓋、不偏航、不漏項。貫穿全週期(開工前健檢→追蹤文件→衝突處置→非功能需求→上線維運→既有 codebase),用 **exit code 而非意志力**強制紀律。Sentinel 看「怎麼想」,Compass 看「怎麼照規格執行」。
+
+`Claude Code` · `PRD-Driven Development` · `Spec Compliance` · `AI Developer Tools`
+
 ---
 
 ### 🧭 What drives me
@@ -36,9 +44,9 @@ A Claude Code skill that acts as a senior engineer's thinking layer. It encodes 
 > Believer in asking the right question before writing the first line.
 > 相信在寫下第一行之前,先問對問題。
 
-I spent a long time studying structured thinking frameworks (critical / creative / communication / interaction). Sentinel is what happens when that obsession meets AI-assisted engineering.
+I spent a long time studying structured thinking frameworks (critical / creative / communication / interaction). Sentinel (thinking) and its companion Compass (spec discipline) are what happens when that obsession meets AI-assisted engineering.
 
-我花了很長時間研究結構化思考框架(批判／創意／溝通／互動)。Sentinel 就是這份著迷遇上 AI 工程後的產物。
+我花了很長時間研究結構化思考框架(批判／創意／溝通／互動)。Sentinel(思考)與它的配對作品 Compass(規格紀律),就是這份著迷遇上 AI 工程後的產物。
 
 ---
 
