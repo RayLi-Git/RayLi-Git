@@ -26,9 +26,9 @@ My background is in **manufacturing R&D**, where I lead AI adoption — bringing
 
 #### [Sentinel](https://github.com/RayLi-Git/sentinel) — A Thinking OS for Vibe Coding
 
-A Claude Code skill that acts as a senior engineer's thinking layer. It encodes **87 world-class thinking habits** into a five-stage loop (Plan → Build → Diagnose → Solve → Retro), stopping AI from surface-patching, silencing alarms, or shipping security gambles — and grows a self-learning "case history" so the same pit isn't fallen into twice.
+A Claude Code skill that acts as a senior engineer's thinking layer. It encodes **87 thinking habits (76 world-class + 11 security)** into a five-stage loop (Plan → Build → Diagnose → Solve → Retro), stopping AI from surface-patching, silencing alarms, or shipping security gambles — and grows a self-learning "case history" so the same pit isn't fallen into twice.
 
-一個扮演資深工程師思考層的 Claude Code skill。它把 **世界名校的 87 個思考習慣**編進五階段循環(規劃→開發→診斷→解決→復盤),阻止 AI 貼補丁、關警報、賭資安僥倖,並長出會自我學習的「病歷」,讓同一個坑不踩第二次。
+一個扮演資深工程師思考層的 Claude Code skill。它把 **87 個思考習慣（76 個世界名校 + 11 個自創資安）**編進五階段循環(規劃→開發→診斷→解決→復盤),阻止 AI 貼補丁、關警報、賭資安僥倖,並長出會自我學習的「病歷」,讓同一個坑不踩第二次。
 
 `Claude Code` · `Thinking Framework` · `AI Developer Tools` · `Root-Cause Analysis`
 
